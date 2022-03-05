@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TipColor</string>
+    <string name="primary_color">primaryColor</string>
+    <string name="button">button</string>
+    <string name="secondary_color">secondaryColor</string>
+    <string name="email_icon">emailIcon</string>
+</resources>
